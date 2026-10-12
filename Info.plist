@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIcons</key>
+	<dict>
+		<key>CFBundleAlternateIcons</key>
+		<dict>
+			<key>blue_custom_i</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>blue_custom_i</string>
+				</array>
+			</dict>
+			<key>dark_custom_i</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>dark_custom_i</string>
+				</array>
+			</dict>
+			<key>gren</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>gren</string>
+				</array>
+			</dict>
+			<key>orange_custom_i</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>orange_custom_i</string>
+				</array>
+			</dict>
+			<key>pink_custom_i</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>pink_custom_i</string>
+				</array>
+			</dict>
+			<key>purple_custom_i</key>
+			<dict>
+				<key>CFBundleIconFiles</key>
+				<array>
+					<string>purple_custom_i</string>
+				</array>
+			</dict>
+		</dict>
+		<key>CFBundlePrimaryIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string></string>
+			</array>
+			<key>CFBundleIconName</key>
+			<string></string>
+			<key>UIPrerenderedIcon</key>
+			<false/>
+		</dict>
+		<key>UINewsstandIcon</key>
+		<dict>
+			<key>CFBundleIconFiles</key>
+			<array>
+				<string></string>
+			</array>
+			<key>UINewsstandBindingEdge</key>
+			<string>UINewsstandBindingEdgeLeft</string>
+			<key>UINewsstandBindingType</key>
+			<string>UINewsstandBindingTypeMagazine</string>
+		</dict>
+	</dict>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>We need access to your calendar to let you view your completed tasks directly within your schedule.</string>
+	<key>Privacy - Calendars Write Only Access Usage Description</key>
+	<string>We require this permission to save your planned goals as events directly to your personal calendar.</string>
+	<key>SKAdNetworkItems</key>
+	<array>
+		<dict>
+			<key>SKAdNetworkIdentifier</key>
+			<string>cstr6suwn9.skadnetwork</string>
+		</dict>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>UIColorName</key>
+		<string>Background</string>
+		<key>UILaunchScreen</key>
+		<dict/>
+	</dict>
+</dict>
+</plist>
